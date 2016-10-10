@@ -15,7 +15,7 @@ Vous aurez par la suite, un projet à réaliser afin de confirmer le fait qu'il 
 # Cours
 ## Front End
 ### Javascript
- * [Open Classroom - POO - 20h](https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript/trop-classe-la-poo)
+ * [Open Classroom - POO - 20h](https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript/creez-vos-premiers-objets)
  * [Grafikart - POO - 25min](https://www.grafikart.fr/tutoriels/javascript/poo-javascript-object-466)
  
 ### Angular JS
