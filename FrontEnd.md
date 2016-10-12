@@ -29,8 +29,26 @@ De façon complémentaire, il/elle participe aussi à :
 * REACT
 * Wordpress et WooCommerce
 
+## Le projet
+Le client vous demande de réaliser une application de comptabilité pour ses utilisateurs. 
+L'application de back-end a déjà été commandée au sein d'un autre service et il vous est demandé de réaliser la partie front. Le client vous demande d'implémenter votre partie en AngularJS et vous laisse libre sur l'implémentation, les routes ainsi que sur la charte graphique à apporter. 
+Cette application de comptabilité devra permettre à un utilisateur connecté de gérer : 
+* Les utilisateurs
+* Les dépenses
+Ce qu'on entend par gérer étant la création, la mise à jour et la suppression. Ainsi qu'avoir une visualisation complète et intuitive des dépenses effectuées. 
+Les données provenant de la partie back seront dispensées au format JSON. Vous avez un échantillon des données présentes ici : 
+* [users] (data/users.json)
+* [depenses](data/depenses.json)
 
+L'application de front doit pouvoir être autonome.
+Deux URL's distinctent doivent pouvoir permettre à une application externe d'accéder aux données users et dépenses au format JSON
 
+Chaque saisie de dépense doit obligatoirement avoir : 
+* Un payeur
+* 1 à N concernés par le paiement
+* Une description (avec une description par défaut contenant la date du jour)
+
+Le payeur ne doit pas forcément faire partie des concernés. Mais un message le mentionnant doit apparaître sur l'écran.
 
 
 
