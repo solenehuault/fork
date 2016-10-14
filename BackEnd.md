@@ -1,4 +1,4 @@
-# Parcours Front-End
+# Parcours Back-End
 ## Le métier
 Le/la développeur∙se Web BackEnd est un∙e informaticien∙ne qui réalise l’ensemble des fonctionnalités logicielle d’un site Internet. Le profil du développeur∙se Web BackEnd est celui d'un∙e technicien∙ne capable d’analyser les besoins des clients consignés au préalable dans un cahier des charges par le chef de projet. Il/elle préconise et met en oeuvre une solution technique pour concevoir des sites sur mesure ou adapter des solutions techniques existantes. 
 
