@@ -10,6 +10,17 @@ require_once 'User.php';
  * @copyright XXX
  */
 class Depense {
+
+	private $_id,
+					$_montant,
+					$_date,
+					$_description;
+
+	public function get_id { return $this->_id; }
+	public function get_montant { return $this->_montant; }
+	public function get_date { return $this->_date; }
+	public function get_description { return $this->_description; }
+
     // Attributes
     /**
      * XXX
