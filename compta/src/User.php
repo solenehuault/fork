@@ -10,6 +10,15 @@ require_once 'Usercolor.php';
  * @copyright XXX
  */
 class User {
+	private $_id,
+					$_username,
+					$_password;
+
+	public function get_id() {	return $this->_id;	}
+	public function get_username() {	return $this->_username;	}
+	public function get_password() {	return $this->_password;	}
+
+
     // Attributes
     /**
      * XXX
